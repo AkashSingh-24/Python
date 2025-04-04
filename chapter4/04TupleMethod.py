@@ -18,3 +18,19 @@ print(a1 + a2)
 mult = (1, 2, 3)
 repeat = mult*3
 print(repeat)
+
+# method len
+print(len(a1))
+
+# Slice method
+a2 = (1, 2, 3, 4, 5)
+slice = a2[1:4]
+print(slice)
+
+# unpacking method
+ak = (1, 2, 3,)
+a, b, c = ak
+print(a, b, c)
+
+
+
